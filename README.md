@@ -23,10 +23,10 @@ In case you import shorturl to other database
 
 ## Using the SHORTEN URL Application
 
-- [STEP 1] Paste URL / TYPE URL in input field.
-- [STEP 2] Press Enter or Click SHORTEN Button.
-- [STEP 3] Here is your Short URL ready to Go Simply Copy it / Click Copy Button.
-- [STEP 4] Enjoy.
+- STEP 1 : Paste URL / TYPE URL in input field.
+- STEP 2 : Press Enter or Click SHORTEN Button.
+- STEP 3 : Here is your Short URL ready to Go Simply Copy it / Click Copy Button.
+- STEP 4 : Enjoy.
 
 ## Issues
 
