@@ -1,13 +1,13 @@
 # CI SHORTEN URL
 
-CI SHORTEN URL for [CodeIgniter][3].
+CI SHORTEN URL is for [CodeIgniter][3].
 
 ## Install
 
 ### Requirements
 
-- [PHP][4] version 5.2.4 or newer
-- [CodeIgniter][3] version 2.x – v3.x
+- [PHP][4] version 5.6.31 or newer
+- [CodeIgniter][3] version v3.x
 
 ### Download
 
@@ -25,51 +25,9 @@ Download and extract the [zip][5] release to your CoddeIgniter
 Customized [PHP SHORTEN URL settings](https://michelf.ca/projects/php-markdown/configuration/)
 can be specified in the [config/markdown.php](https://github.com/jonlabelle/ci-markdown/blob/master/config/markdown.php) config file.
 
-### Initializing the Class
-
-Like most other classes in CodeIgniter, the SHORTEN URL class is initialized in
-your controller using the `$this->load->library()` method:
-
-```php
-$this->load->library('markdown');
-```
-
-Once loaded, the SHORTEN URL library object will be available using:
-
-```php
-$this->markdown
-```
-
 ### Examples
 
-#### SHORTEN URL Text to HTML
-
-- `$this->markdown->parse()`
-
-Accepts a single `string` parameter of SHORTEN URL *text* and returns the parsed
-HTML.
-
-```php
-$this->load->library('markdown');
-
-$markdownText = "# Heading "."\n\n"."## Sub-heading"."\n\n";
-echo $this->markdown->parse($markdownText);
->>> <h1>Heading</h1><h2>Sub-heading</h2>
-```
-
-#### SHORTEN URL File to HTML
-
-- `$this->markdown->parse_file()`
-
-Accepts a single `string` parameter for a SHORTEN URL *file path* and returns the
-parsed HTML.
-
-```php
-$this->load->library('markdown');
-
-echo $this->markdown->parse_file('/path/to/markdown/file.md');
->>> <h1>CI SHORTEN URL</h1><p>CI SHORTEN URL is a modified rendition...</p>
-```
+#### SHORTEN URL Long LINK to SHORT LINK
 
 ## Issues
 
@@ -86,7 +44,7 @@ See the [Changelog][7] page.
 
 ## Author
 
-- Jon LaBelle <contact@jonlabelle.com>
+- Mohsin Shaikh <mohsinshaikh78601@gmail.com>
 
 [1]: https://michelf.ca/projects/php-markdown/
 [2]: https://michelf.ca/projects/php-markdown/extra/
