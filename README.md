@@ -4,14 +4,16 @@ CI SHORTEN URL is for [CodeIgniter][3].
 
 ## Install
 
-### Requirements
+### Requirements OR Package Content
 
 - [PHP][4] version 5.6.31 or newer
 - [CodeIgniter][3] version v3.x
+- [Bootstrap][1] version v4.1
+- [jQuery][2] version v2.2.3 
 
 ### Download
 
-Download and extract the [zip][5] release to your CoddeIgniter
+Download and extract the [zip][5] release to your Working Dir
 `application/libraries/` directory.
 
 **The extracted path should resemble:**
@@ -39,15 +41,14 @@ See the [Changelog][7] page.
 
 ## Credits
 
-- [John Gruber](http://daringfireball.net/)
-- [Michel Fortin](https://michelf.ca/home/)
+- [Mohsin Shaikh] My Self Ha ha haa.
 
 ## Author
 
 - Mohsin Shaikh <mohsinshaikh78601@gmail.com>
 
-[1]: https://michelf.ca/projects/php-markdown/
-[2]: https://michelf.ca/projects/php-markdown/extra/
+[1]: https://getbootstrap.com
+[2]: https://code.jquery.com/jquery
 [3]: https://www.codeigniter.com
 [4]: https://php.net
 [5]: https://github.com/m78601/shorturl/archive/master.zip
