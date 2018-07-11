@@ -1,0 +1,32 @@
+#form_url{
+	margin: auto;
+	width: 99%;
+	padding: 120px;
+}
+#url {
+	padding: 20px;
+}
+#url-button{
+	background-color: black;
+	color: white;
+	padding: 20px;
+}
+#copy-button{
+	background-color: black;
+	color: white;
+	padding: 20px;
+}
+#reset-button{
+	background-color: black;
+	color: white;
+	padding: 20px;
+}
+#url-and-button{
+	width: 100%;
+}
+#alert-message{
+	width: 100%;
+}
+.loading-hide{
+	display: none;
+}
