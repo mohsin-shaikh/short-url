@@ -1,10 +1,10 @@
 # CI SHORTEN URL
 
-CI SHORTEN URL is for [CodeIgniter][3].
+CI SHORTEN URL build on [CodeIgniter][3].
 
 ## Install
 
-### Requirements OR Package Content
+### Requirements / Package Content
 
 - [PHP][4] version 5.6.31 or newer
 - [CodeIgniter][3] version v3.x
@@ -14,30 +14,23 @@ CI SHORTEN URL is for [CodeIgniter][3].
 ### Download
 
 Download and extract the [zip][5] release to your Working Dir
-`application/libraries/` directory.
-
-**The extracted path should resemble:**
-
-- `application/libraries/SHORTEN URL.php`
-
-## Using the SHORTEN URL Class
 
 ### Configuration
 
-Customized [PHP SHORTEN URL settings](https://michelf.ca/projects/php-markdown/configuration/)
-can be specified in the [config/markdown.php](https://github.com/m78601/shorturl/blob/master/config/markdown.php) config file.
+You Dont need to configure any thing. Just extract Master ZIP and Import shorturl.sql
+In case you import shorturl to other database
+- `application/config/database.php` change Database credentials.
 
-### Examples
+## Using the SHORTEN URL Application
 
-#### SHORTEN URL Long LINK to SHORT LINK
+- [STEP 1] Paste URL / TYPE URL in input field.
+- [STEP 2] Press Enter or Click SHORTEN Button.
+- [STEP 3] Here is your Short URL ready to Go Simply Copy it / Click Copy Button.
+- [STEP 4] Enjoy.
 
 ## Issues
 
 For all issues including feature requests, please [open a new issue][6].
-
-## Changes
-
-See the [Changelog][7] page.
 
 ## Credits
 
