@@ -23,7 +23,7 @@ Download and extract the [zip][5] release to your CoddeIgniter
 ### Configuration
 
 Customized [PHP SHORTEN URL settings](https://michelf.ca/projects/php-markdown/configuration/)
-can be specified in the [config/markdown.php](https://github.com/jonlabelle/ci-markdown/blob/master/config/markdown.php) config file.
+can be specified in the [config/markdown.php](https://github.com/m78601/shorturl/blob/master/config/markdown.php) config file.
 
 ### Examples
 
@@ -50,6 +50,6 @@ See the [Changelog][7] page.
 [2]: https://michelf.ca/projects/php-markdown/extra/
 [3]: https://www.codeigniter.com
 [4]: https://php.net
-[5]: https://github.com/jonlabelle/ci-markdown/archive/master.zip
-[6]: https://github.com/jonlabelle/ci-markdown/issues/new
-[7]: https://github.com/jonlabelle/ci-markdown/blob/master/CHANGELOG.md
+[5]: https://github.com/m78601/shorturl/archive/master.zip
+[6]: https://github.com/m78601/shorturl/issues/new
+[7]: https://github.com/m78601/shorturl/blob/master/CHANGELOG.md
