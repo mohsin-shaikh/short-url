@@ -1,7 +1,6 @@
 # CI SHORTEN URL
 
-CI SHORTEN URL is a modified rendition of Michel Fortin's [PHP SHORTEN URL][1]
-and [PHP SHORTEN URL Extra][2] for [CodeIgniter][3].
+CI SHORTEN URL for [CodeIgniter][3].
 
 ## Install
 
